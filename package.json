@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/minu1215/minu1215-express/issues"
   },
-  "homepage": "https://github.com/minu1215/minu1215-express#readme"
+  "homepage": "https://github.com/minu1215/minu1215-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
