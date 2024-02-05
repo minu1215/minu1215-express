@@ -1,0 +1,25 @@
+{
+  "name": "minu1215-express",
+  "version": "0.1.0",
+  "description": "my js express server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minu1215/minu1215-express.git"
+  },
+  "keywords": [
+    "js",
+    "minu1215",
+    "server",
+    "express"
+  ],
+  "author": "minu1215",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minu1215/minu1215-express/issues"
+  },
+  "homepage": "https://github.com/minu1215/minu1215-express#readme"
+}
